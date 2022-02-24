@@ -30,11 +30,7 @@ The current Client system is based on SW:
 3D Graphics Engine Config:
 
 Versions
-  Unity: 2017.4.13f1
-  
-  VRTK: 3.3.0 (may not be correct if source is GitHub)
-  
-  SteamVR: 1.2.3
+  Unreal Engine 5
   
 VR Settings
   Standalone: None, OpenVR
@@ -91,8 +87,3 @@ Configuration git:
 - https://github.com/Vytek/MVUpdateDB
 - https://github.com/mbdavid/LiteDB (MIT)
 
-## Free Assets ##
-
-- https://assetstore.unity.com/packages/tools/particles-effects/bfw-simple-dynamic-clouds-85665
-- https://assetstore.unity.com/packages/tools/particles-effects/nvidia-vrworks-83505
-- https://avatarsdk.com/

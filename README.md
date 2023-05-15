@@ -1,10 +1,10 @@
-# Metaegg Metaverse (Unreal Engine Project)
-![image](https://user-images.githubusercontent.com/97986424/152596678-49851c5a-c284-4e08-a111-63439a064015.png)
+# Antofy Metaverse (Unreal Engine Project)
+![metaverse-sustainability](https://github.com/antofy/metaverse/assets/98596722/d2146512-fbbe-496f-817c-cdf6791be502)
 
-This document describes the development and creation of the first Real Virtual World. Metaegg Metaverse will be a replica of the real universe. It will be developed using the best technologies available to overcome the current paradigm of the "Metaverse" and launch the user in a new era. What will be outlined is actually an idea, a project that we hope will soon become a reality. We believe it will be soon a reality, hoping that drawing a plot and describing what are the possibilities will encourage further progress and implementations.
+This document describes the development and creation of the first Real Virtual World. Antofy Metaverse will be a replica of the real universe. It will be developed using the best technologies available to overcome the current paradigm of the "Metaverse" and launch the user in a new era. What will be outlined is actually an idea, a project that we hope will soon become a reality. We believe it will be soon a reality, hoping that drawing a plot and describing what are the possibilities will encourage further progress and implementations.
 
-Let's start from the correct definition of "Metaegg Metaverse": 3D  virtual environment of real-world around us created by the computer, shared with multiple users over the Internet with a persistent possibility of insertion, modification, and deletion of objects and agents and direct interaction through virtual devices. Furthermore programmable through a scripting language. 
-The above definition only partially clarifies the possibilities offered by a Metaegg Metaverse. Here, then, is a brief "manifesto" that can detail more the characteristics of the Metaegg Metaverse project. 
+Let's start from the correct definition of "Antofy Metaverse": 3D  virtual environment of real-world around us created by the computer, shared with multiple users over the Internet with a persistent possibility of insertion, modification, and deletion of objects and agents and direct interaction through virtual devices. Furthermore programmable through a scripting language. 
+The above definition only partially clarifies the possibilities offered by a Antofy Metaverse. Here, then, is a brief "manifesto" that can detail more the characteristics of the Antofy Metaverse project. 
 A micro manifesto for the perfect "Metaverse"**:**
 
 * Immersive Virtual Reality: Immersive Virtual Reality, designed for a sense of "presence" and "interaction" at a high level. One should not think of a simple HMD viewer connected to an environment recreated on the computer, but of a platform that "involves" the user and above all gives him the possibility of interacting with other users, with objects, and also with automatic systems or systems guided by Artificial Intelligence.
